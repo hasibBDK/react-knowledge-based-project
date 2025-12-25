@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "How to get your first job as a self-taught programmer",
+    "coverImage": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "author": {
+      "name": "Mr. Raju",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    "publishedDate": "2024-03-14",
+    "readTime": "5 min read",
+    "tags": ["beginners", "programming"],
+    "isRead": false
+  },
+  {
+    "id": 2,
+    "title": "React roadmap: What to learn in 2025",
+    "coverImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+    "author": {
+      "name": "Nusrat Jahan",
+      "avatar": "https://randomuser.me/api/portraits/women/45.jpg"
+    },
+    "publishedDate": "2024-05-02",
+    "readTime": "7 min read",
+    "tags": ["react", "frontend"],
+    "isRead": true
+  },
+  {
+    "id": 3,
+    "title": "Backend basics: REST API explained simply",
+    "coverImage": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
+    "author": {
+      "name": "Hasibur Rahaman",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    "publishedDate": "2024-06-10",
+    "readTime": "6 min read",
+    "tags": ["backend", "api"],
+    "isRead": false
+  }
+]
