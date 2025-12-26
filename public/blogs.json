@@ -8,7 +8,7 @@
       "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
     },
     "publishedDate": "2024-03-14",
-    "readTime": "5 min read",
+    "readTime": 5,
     "tags": ["beginners", "programming"],
     "isRead": false
   },
@@ -21,7 +21,7 @@
       "avatar": "https://randomuser.me/api/portraits/women/45.jpg"
     },
     "publishedDate": "2024-05-02",
-    "readTime": "7 min read",
+    "readTime": 20,
     "tags": ["react", "frontend"],
     "isRead": true
   },
@@ -34,7 +34,7 @@
       "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
     },
     "publishedDate": "2024-06-10",
-    "readTime": "6 min read",
+    "readTime": 10,
     "tags": ["backend", "api"],
     "isRead": false
   }
